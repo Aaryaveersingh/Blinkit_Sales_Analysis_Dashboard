@@ -33,37 +33,40 @@ Average Rating – Average customer rating across items
 These KPIs serve as the foundation for deeper exploration across item types, outlets, and product attributes.
 
 # Detailed Analysis Requirements
-1️⃣ Total Sales by Fat Content
+
+
+
+1. Total Sales by Fat Content
 
 Objective: Determine how fat content influences sales
 
 Additional Metrics: Average Sales, Number of Items, Average Rating segmented by fat content
 
-2️⃣ Total Sales by Item Type
+2️. Total Sales by Item Type
 
 Objective: Compare sales across different product categories
 
 Additional Metrics: KPIs assessed across item types
 
-3️⃣ Fat Content Breakdown by Outlet
+3️. Fat Content Breakdown by Outlet
 
 Objective: Analyze outlet-wise sales distribution based on fat content
 
 Additional Metrics: KPIs segmented by both outlet and fat content
 
-4️⃣ Total Sales by Outlet Establishment
+4️. Total Sales by Outlet Establishment
 
 Objective: Understand how the outlet’s establishment year/type impacts sales performance
 
-5️⃣ Percentage of Sales by Outlet Size
+5️. Percentage of Sales by Outlet Size
 
 Objective: Understand how outlet size correlates with sales volume
 
-6️⃣ Sales by Outlet Location
+6️. Sales by Outlet Location
 
 Objective: View geographic sales distribution across locations
 
-7️⃣ All Metrics by Outlet Type
+7️. All Metrics by Outlet Type
 
 Objective: Break down Total Sales, Average Sales, Number of Items, Average Rating by each outlet type
 
@@ -81,5 +84,5 @@ Data Visualization / BI Reporting
 
 ### Dashboard_Preview
 
-![Dashboard_preview]
+![Dashboard_preview](https://github.com/Aaryaveersingh/Blinkit_Sales_Analysis_Dashboard/blob/main/blinkit_dashboard.png)
 
