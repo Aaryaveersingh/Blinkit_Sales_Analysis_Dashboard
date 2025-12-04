@@ -78,6 +78,22 @@ Data Cleaning & Modeling
 
 Data Visualization / BI Reporting
 
+# Overall Business Impact
+
+1.The dashboard empowers Blinkit to:
+
+2.Optimize product distribution
+
+3.Improve customer experience
+
+4.Boost total revenue
+
+5.Strengthen outlet operations
+
+6.Drive data-backed strategic decisions
+
+This makes it a powerful tool for continuous performance enhancement and scaling business efficiency across all Blinkit outlets.
+
 ##  Dashboard Screenshot
 
 ![Dashboard_preview](https://github.com/Aaryaveersingh/Blinkit_Sales_Analysis_Dashboard/blob/main/blinkit_dashboard.png)
