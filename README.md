@@ -97,4 +97,7 @@ This makes it a powerful tool for continuous performance enhancement and scaling
 ##  Dashboard Screenshot
 
 ![Dashboard_preview](https://github.com/Aaryaveersingh/Blinkit_Sales_Analysis_Dashboard/blob/main/blinkit_dashboard.png)
+![](https://github.com/Aaryaveersingh/Blinkit_Sales_Analysis_Dashboard/blob/main/blinkit_dashboard_ss2.png)
+![](https://github.com/Aaryaveersingh/Blinkit_Sales_Analysis_Dashboard/blob/main/blinkit_dashboard_ss3.png)
+
 
